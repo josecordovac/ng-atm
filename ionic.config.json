@@ -1,0 +1,7 @@
+{
+  "name": "ng-atm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
